@@ -1,4 +1,4 @@
-# Web Health Checker
+### Web Health Checker
 
 **web-health-checker** is a simple command-line application built in **Golang** that checks whether a website is up or down. It allows you to specify a domain to check, and optionally, a port number to check.
 
